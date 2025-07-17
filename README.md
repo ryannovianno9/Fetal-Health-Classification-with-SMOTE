@@ -1,4 +1,4 @@
-# Fetal-Health-Classification-with-SMOTE
+# Fetal-Health-Classification
 
 Reduction of child mortality is reflected in several of the United Nations' Sustainable Development Goals and is a key indicator of human progress.
 The UN expects that by 2030, countries end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce under‑5 mortality to at least as low as 25 per 1,000 live births.
